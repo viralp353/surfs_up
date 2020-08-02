@@ -51,4 +51,4 @@ As per my Analysis, We can see that data for june and dec in above pic.A look at
 Compare june and december data,Standard devitation were almost same like 3.2 and 3.7.Basically weather  was good in both season 
 
 
-Weather is play very import role for bussiness.As per my Analysis,Weather was warn in both season So It is good for bussiness.I would like to recommend to inverstors,don't panic about weather in june and december.just find best tourist location from 9 stations and start bussiness.and also look at a all year weather's data.for bussineess We required full analysis.
+Weather is play very import role for bussiness.As per my Analysis,Weather was good in both season So It is good for bussiness.I would like to recommend to inverstors,don't panic about weather in june and december.just find best tourist location from 9 stations and start bussiness.and also look at a all year weather's data.for bussineess We required full analysis.Because Weather isn't stable for whole year.Recommend to inverstors,a look  at a tourist's data.because of that We can determine best place for bussiness.
